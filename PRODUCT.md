@@ -25,3 +25,6 @@ Name: Phase4; institution: JSS Private School, Dubai; school motto: Seek, Learn,
 
 ## Product Principles
 Make the student's actual work the visual focus. Support headline achievements with evidence from the supplied reports. Make breadth easy to discover, then offer readable detail. Keep the technical deployment simple.
+
+## Score correction
+On 28 October 2026, the user supplied corrected Grade 9F pilot scores: English 75% to 91% (+16 percentage points), mathematics 85% to 96% (+11 percentage points). These supersede the original source figures on the homepage and PhenoBL story.
