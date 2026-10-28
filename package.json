@@ -1,0 +1,11 @@
+{
+  "name": "phase4-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Phase4 — JSS Private School, Dubai. A static showcase ready for GitHub Pages.",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1",
+    "build": "node scripts/build.mjs",
+    "check": "node --check app.js && node --check content.js && node --check story.js"
+  }
+}
