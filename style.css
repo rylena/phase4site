@@ -50,3 +50,10 @@
 
 .programme img.contain-cover{object-fit:contain;background:var(--sage)}
 .programme .image-note{display:inline-block;margin-left:16px;font-size:11px;color:var(--muted)}
+
+.portfolio-embed{padding-bottom:70px}
+.embed-heading{display:flex;justify-content:space-between;align-items:center;gap:24px;margin-bottom:24px}
+.embed-heading h2{font-size:38px}
+.portfolio-embed iframe{width:100%;height:760px;border:1px solid #193c3240;background:var(--white);display:block}
+.portfolio-embed>p{font-size:13px;color:var(--muted);margin-top:14px}
+@media(max-width:680px){.embed-heading{display:block}.embed-heading h2{font-size:30px;margin-bottom:16px}.portfolio-embed iframe{height:650px}}

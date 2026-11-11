@@ -18,7 +18,8 @@ function renderPosts() {
     search.value = ''; document.querySelector('#programme-filters button').click(); search.focus();
   });
 }
-filters('programme-filters', ['All posts', ...new Set(Object.values(data.stories).map(s => s.category))], category => {
+const categoryCounts = Object.values(data.stories).reduce((counts, story) => { counts[story.category] = (counts[story.category] || 0) + 1; return counts; }, {});
+filters('programme-filters', ['All posts', ...data.categoryOrder.filter(category => categoryCounts[category] >= 4)], category => {
   postCategory = category; renderPosts();
 });
 search.addEventListener('input', renderPosts);
@@ -30,7 +31,6 @@ selectCategory(new URLSearchParams(location.search).get('category'));
 document.querySelectorAll('[data-post-category]').forEach(link => link.addEventListener('click', e => {
   e.preventDefault(); selectCategory(link.dataset.postCategory); document.getElementById('posts').scrollIntoView();
 }));
-document.getElementById('portfolio-list').innerHTML = data.portfolios.map(p => `<div class="portfolio-row"><div><h3>${p.name}</h3><p>${p.description}</p></div><div class="portfolio-actions">${p.story ? `<a href="story.html?id=${p.story}">Read his story</a>` : ''}<a href="${p.url}"${/^https?:/.test(p.url) ? ' target="_blank" rel="noopener noreferrer"' : ''}>${p.label} ↗</a></div></div>`).join('');
 let shown=0,current=0;const dialog=document.getElementById('photo-dialog');
 function showPhoto(i){current=(i+data.gallery.length)%data.gallery.length;const [id,caption]=data.gallery[current];dialog.querySelector('img').src=photo(id);dialog.querySelector('img').alt=caption;dialog.querySelector('p').textContent=`${caption} · ${current+1} / ${data.gallery.length}`}
 function more(){const end=Math.min(shown+9,data.gallery.length);for(let i=shown;i<end;i++){const [id,caption]=data.gallery[i];const b=document.createElement('button');b.className='gallery-item';b.innerHTML=`<img loading="lazy" src="assets/photos/${id}-small.webp" alt="${caption}"><span>${caption}</span>`;b.addEventListener('click',()=>{showPhoto(i);dialog.showModal()});document.getElementById('gallery-grid').append(b)}shown=end;document.getElementById('gallery-more').hidden=shown===data.gallery.length;}

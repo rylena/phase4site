@@ -728,5 +728,23 @@
     "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: an editorial marketing strategy still life: neat unlabelled product packaging prototypes, a wooden megaphone, several blank audience-profile cards and simple freestanding wooden chart bars with no axes or numbers, arranged on a warm ivory desk. Confident business-plan thinking. Symbolic illustration rather than a real student presentation or contest result. No business logos, fabricated data or readable text.",
     "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
     "purpose": "sp-jain-marketing"
+  },
+  {
+    "asset": "assets/photos/joel-portfolio.webp",
+    "origin": "https://joeljoseskb.wixsite.com/portfolio-7f",
+    "credit": "Student portfolio homepage screenshot",
+    "transform": "Resized WebP, maximum1400px and640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/omkar-portfolio.webp",
+    "origin": "https://omkarmhetar090809.wixsite.com/omkare-portfolio",
+    "credit": "Student portfolio homepage screenshot",
+    "transform": "Resized WebP, maximum1400px and640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/harish-results.webp",
+    "origin": "https://www.khaleejtimes.com/kt-network/jss-private-school-celebrates-cbse-results-of-grade-10-and-12",
+    "credit": "Harish Murugappan in the school results board / Khaleej Times",
+    "transform": "Browser capture of identified Harish portrait; resized WebP and thumbnail"
   }
 ]

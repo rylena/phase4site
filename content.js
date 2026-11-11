@@ -228,7 +228,7 @@ window.PHASE4 = {
     },
     "diamond-artist": {
       "title": "Diamond Artist Award",
-      "category": "Arts",
+      "category": "School life",
       "subtitle": "Abhinav Menon Mullath · Diamond Artist Award",
       "summary": "Abhinav Menon Mullath recognised in the international Picasso Art Contest – Artistic Genesis 2026.",
       "intro": "Abhinav Menon Mullath recognised in the international Picasso Art Contest – Artistic Genesis 2026.",
@@ -282,7 +282,7 @@ window.PHASE4 = {
     },
     "cluster-tennis": {
       "title": "CBSE UAE Cluster Tennis Gold",
-      "category": "Sport",
+      "category": "School life",
       "subtitle": "Gold · CBSE UAE Cluster Tennis",
       "summary": "Panache Purohit and Advait Madhukar Kharat take first place in the 2026–27 boys’ tennis team competition.",
       "intro": "Panache Purohit and Advait Madhukar Kharat take first place in the 2026–27 boys’ tennis team competition.",
@@ -300,7 +300,7 @@ window.PHASE4 = {
     },
     "national-tennis": {
       "title": "CBSE Tennis Nationals Bronze",
-      "category": "Sport",
+      "category": "School life",
       "subtitle": "Bronze · CBSE Tennis Nationals",
       "summary": "A national-level mixed-doubles bronze medal celebrated in the school’s October assembly.",
       "intro": "A national-level mixed-doubles bronze medal celebrated in the school’s October assembly.",
@@ -318,7 +318,7 @@ window.PHASE4 = {
     },
     "cluster-swimming": {
       "title": "Under-19 Freestyle Relay",
-      "category": "Sport",
+      "category": "School life",
       "subtitle": "Third place · Under-19 freestyle relay",
       "summary": "A third-place finish at the UAE CBSE Cluster Swimming Championship.",
       "intro": "A third-place finish at the UAE CBSE Cluster Swimming Championship.",
@@ -336,7 +336,7 @@ window.PHASE4 = {
     },
     "doj-recognition": {
       "title": "U.S. DOJ Vulnerability Hall of Fame",
-      "category": "Cybersecurity",
+      "category": "Innovation",
       "subtitle": "U.S. Department of Justice recognition",
       "summary": "Rylen Anil is publicly acknowledged by the U.S. Department of Justice disclosure programme for responsibly disclosing a valid vulnerability.",
       "intro": "Rylen Anil is publicly acknowledged by the U.S. Department of Justice disclosure programme for responsibly disclosing a valid vulnerability.",
@@ -606,7 +606,7 @@ window.PHASE4 = {
     },
     "panorama": {
       "title": "Panorama ’26",
-      "category": "Learning",
+      "category": "Learning & careers",
       "subtitle": "A learning conference with the world in view.",
       "image": "panorama-image1",
       "alt": "Two students presenting their sustainability proposal at Panorama",
@@ -719,7 +719,7 @@ window.PHASE4 = {
     "phenobl": {
       "title": "Phenomenon-Based Learning",
       "subtitle": "From “why?” to “what if?”",
-      "category": "Learning",
+      "category": "Learning & careers",
       "image": "phenobl-image14",
       "alt": "Grade 9F students presenting their phenomenon-based learning outline",
       "summary": "Grade 9F connects subjects, investigates real questions and presents evidence with growing confidence.",
@@ -763,7 +763,7 @@ window.PHASE4 = {
     "mpowered": {
       "title": "M-Powered",
       "subtitle": "Where mathematics sparks possibility.",
-      "category": "Learning",
+      "category": "Learning & careers",
       "image": "mpowered-image5",
       "alt": "Students collaborating in an M-Powered mathematics session",
       "summary": "Mathematics meets real life through exploration, collaboration, puzzles and student ownership.",
@@ -799,7 +799,7 @@ window.PHASE4 = {
     "cyber": {
       "title": "Social / Cyber Curators",
       "subtitle": "Designing a wiser digital future.",
-      "category": "Community",
+      "category": "School life",
       "image": "cyber-image-004",
       "alt": "Cyber Curators students collaborating over a laptop",
       "summary": "Students imagine the digital citizen of 2035, balancing new technology with privacy, kindness and truth.",
@@ -835,7 +835,7 @@ window.PHASE4 = {
     "artist": {
       "title": "The Artist’s Way",
       "subtitle": "Values, seen through a creative lens.",
-      "category": "Community",
+      "category": "School life",
       "image": "artist-image-006",
       "alt": "Students making artwork for The Artist’s Way values activity",
       "summary": "Art and reflection help students connect family values with their future lives, leadership and communities.",
@@ -863,7 +863,7 @@ window.PHASE4 = {
     "dialogues": {
       "title": "Different Dialogues",
       "subtitle": "Listening across generations.",
-      "category": "Community",
+      "category": "School life",
       "image": "dialogues-image5",
       "alt": "Students contributing to an intergenerational Dialogue Club discussion",
       "summary": "Three sessions turn the generation gap into an opportunity for empathy, listening and shared understanding.",
@@ -897,7 +897,7 @@ window.PHASE4 = {
     "karma": {
       "title": "Karma Ambassadors",
       "subtitle": "Celebrating effort. Practising gratitude.",
-      "category": "Community",
+      "category": "School life",
       "image": "karma-image9",
       "alt": "A collage of Karma Ambassadors meeting members of the school community",
       "summary": "Students recognise the people who keep school life moving, building respect, empathy and community spirit.",
@@ -923,7 +923,7 @@ window.PHASE4 = {
     "avenues": {
       "title": "AVENUES: Career Connect",
       "subtitle": "Better questions. More informed choices.",
-      "category": "Careers",
+      "category": "Learning & careers",
       "image": "avenues-image17",
       "alt": "School students and workshop representatives at a Career Connect event",
       "summary": "Expert conversations connect academic choices with university pathways, digital responsibility and consumer awareness.",
@@ -963,7 +963,7 @@ window.PHASE4 = {
     "internships": {
       "title": "Internships & Real-World Experience",
       "subtitle": "A first step into a wider world.",
-      "category": "Careers",
+      "category": "Learning & careers",
       "image": "internships-image11",
       "alt": "Students with the Middlesex University Street Law workshop team",
       "summary": "Across 13 fields, students connect what they learn in school with the work they might do next.",
@@ -995,7 +995,7 @@ window.PHASE4 = {
     "mun": {
       "title": "JSSPS Model United Nations",
       "subtitle": "Rebuilding trust in a world of transformation.",
-      "category": "Leadership",
+      "category": "School life",
       "image": "mun-image-000",
       "alt": "Delegates and organisers gathered on the JSSPSMUN stage",
       "summary": "Two days, 34 schools and around 300 students putting diplomacy, debate and collaboration into practice.",
@@ -1130,6 +1130,103 @@ window.PHASE4 = {
       ],
       "photos": [],
       "photoCaptions": []
+    },
+    "joel": {
+      "title": "Joel Jose",
+      "category": "Student voices",
+      "subtitle": "A portfolio of learning across subjects.",
+      "image": "joel-portfolio",
+      "alt": "Homepage of Joel Jose’s student portfolio",
+      "imageCredit": "Screenshot of Joel Jose’s portfolio",
+      "summary": "Explore Joel’s English, science, mathematics, social studies, computing and French work in his own portfolio.",
+      "intro": "Joel’s portfolio brings classroom work into one personal space. Its homepage gives visitors direct routes into six subjects, with examples of notebook work and learning presented in his own format.",
+      "sections": [
+        {
+          "title": "Learning, in his own words",
+          "text": "The site links to English, science, mathematics, social studies, computing and French work. Explore the embedded portfolio below to follow those subject pages and see the work Joel has chosen to share."
+        }
+      ],
+      "sourceLabel": "Joel Jose’s own portfolio · checked 11 November 2026",
+      "links": [
+        {
+          "label": "Open Joel’s portfolio",
+          "url": "https://joeljoseskb.wixsite.com/portfolio-7f"
+        }
+      ],
+      "embed": {
+        "url": "https://joeljoseskb.wixsite.com/portfolio-7f",
+        "title": "Joel Jose’s portfolio"
+      },
+      "photos": [],
+      "photoCaptions": []
+    },
+    "omkar": {
+      "title": "Omkar Mhetar",
+      "category": "Student voices",
+      "subtitle": "Engineering ideas, creative work and ambitions for the future.",
+      "image": "omkar-portfolio",
+      "alt": "Homepage of Omkar Mhetar’s e-portfolio",
+      "imageCredit": "Screenshot of Omkar Mhetar’s portfolio",
+      "summary": "Discover Omkar’s engineering ambitions, artwork, 3D printing and prototype development through his own e-portfolio.",
+      "intro": "Omkar’s e-portfolio connects engineering interests with creative expression. He describes an ambition to study engineering and contribute to his community, while sharing the projects and experiences that are shaping that direction.",
+      "sections": [
+        {
+          "title": "Making and experimenting",
+          "text": "The portfolio shows stages of a drone and flying-wing prototype, including a 3D-printed plane body, wing assembly, control testing, CNC machining and a miniature printed drone model. These entries document work in development."
+        },
+        {
+          "title": "A creative perspective",
+          "text": "Alongside engineering projects, Omkar shares artwork and sketches, with sections for academic work, courses, communication, sports and medals. His portfolio brings those interests together with reflections on future goals."
+        }
+      ],
+      "sourceLabel": "Omkar Mhetar’s own e-portfolio · checked 11 November 2026",
+      "links": [
+        {
+          "label": "Open Omkar’s portfolio",
+          "url": "https://omkarmhetar090809.wixsite.com/omkare-portfolio"
+        }
+      ],
+      "embed": {
+        "url": "https://omkarmhetar090809.wixsite.com/omkare-portfolio",
+        "title": "Omkar Mhetar’s e-portfolio"
+      },
+      "photos": [],
+      "photoCaptions": []
+    },
+    "harish": {
+      "title": "Harish Murugappan",
+      "category": "Student voices",
+      "subtitle": "Academic achievement and a continuing learning journey.",
+      "image": "harish-results",
+      "alt": "Harish Murugappan pictured in JSS Private School’s published results board",
+      "imageCredit": "Harish in the school results board / Khaleej Times",
+      "imageFit": "contain",
+      "summary": "Meet Harish through his school achievement and the LinkedIn profile shared in the student portfolio collection.",
+      "intro": "Harish Murugappan appears in JSS Private School’s student portfolio collection through his LinkedIn profile. His academic achievement also features in published coverage of the school’s CBSE results.",
+      "sections": [
+        {
+          "title": "A strong academic milestone",
+          "text": "Khaleej Times reported that Harish achieved 98.4 per cent in the 2024 Grade 10 CBSE examinations, placing second at JSS Private School, Dubai. The report recognised the students’ dedication alongside the support of their teachers and families.",
+          "link": "https://www.khaleejtimes.com/kt-network/jss-private-school-celebrates-cbse-results-of-grade-10-and-12",
+          "linkLabel": "Read the school results coverage"
+        },
+        {
+          "title": "Explore his profile",
+          "text": "The student portfolio collection links to Harish’s LinkedIn profile. Follow it for the experience, interests and updates he chooses to share.",
+          "link": "https://www.linkedin.com/in/harish-muru08/",
+          "linkLabel": "Visit Harish’s LinkedIn profile"
+        }
+      ],
+      "sourceLabel": "Supplied student portfolio directory; Khaleej Times school results report, 13 May 2024 · checked 11 November 2026",
+      "links": [
+        {
+          "label": "View LinkedIn",
+          "url": "https://www.linkedin.com/in/harish-muru08/"
+        }
+      ],
+      "photos": [],
+      "photoCaptions": [],
+      "imagePosition": "50% 40%"
     }
   },
   "fields": [
@@ -1473,37 +1570,12 @@ window.PHASE4 = {
       "Model UN"
     ]
   ],
-  "portfolios": [
-    {
-      "name": "Rylen Anil",
-      "description": "Cybersecurity work, independent press coverage and software projects.",
-      "url": "https://rylenanil.com/",
-      "label": "Visit portfolio",
-      "story": "rylen"
-    },
-    {
-      "name": "Lakshita Jaisankar",
-      "description": "Public speaking, environmental leadership and the arts.",
-      "url": "story.html?id=lakshita",
-      "label": "Explore her story"
-    },
-    {
-      "name": "Joel Jose",
-      "description": "Explore Joel’s student e-portfolio.",
-      "url": "https://joeljoseskb.wixsite.com/portfolio-7f",
-      "label": "Visit portfolio"
-    },
-    {
-      "name": "Harish Murugappan",
-      "description": "Discover Harish’s experience on LinkedIn.",
-      "url": "https://www.linkedin.com/in/harish-muru08/",
-      "label": "View LinkedIn"
-    },
-    {
-      "name": "Omkar",
-      "description": "Explore Omkar’s student e-portfolio.",
-      "url": "https://omkarmhetar090809.wixsite.com/omkare-portfolio",
-      "label": "Visit portfolio"
-    }
+  "categoryOrder": [
+    "Research",
+    "Innovation",
+    "Enterprise",
+    "Learning & careers",
+    "School life",
+    "Student voices"
   ]
 };

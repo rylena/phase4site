@@ -22,5 +22,6 @@ if (!s) {
       <small>Source: ${s.sourceLabel}</small>
     </article>
     ${s.photos.length ? `<div class="story-photos">${s.photos.map((photo, i) => `<figure><img src="assets/photos/${photo}.webp" srcset="assets/photos/${photo}-small.webp 640w, assets/photos/${photo}.webp 1400w" sizes="(max-width:680px) 100vw, 50vw" alt="${s.photoCaptions[i]}" loading="lazy"><figcaption>${s.photoCaptions[i]}</figcaption></figure>`).join('')}</div>` : ''}
+    ${s.embed ? `<section class="portfolio-embed wrap" aria-labelledby="portfolio-title"><div class="embed-heading"><h2 id="portfolio-title">Explore the portfolio.</h2><a class="text-link" href="${s.embed.url}" target="_blank" rel="noopener noreferrer">Open in a new tab ↗</a></div><iframe src="${s.embed.url}" title="${s.embed.title}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-popups-to-escape-sandbox"></iframe><p>Explore the site here, or open it in a new tab for a full-screen view.</p></section>` : ''}
     ${related.length ? `<aside class="related-stories wrap"><h2>Keep exploring.</h2><div>${related.map(([key, value]) => `<a class="text-link" href="story.html?id=${key}">${value.title} ↗</a>`).join('')}</div></aside>` : ''}`;
 }
