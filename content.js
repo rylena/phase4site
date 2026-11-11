@@ -175,16 +175,18 @@ window.PHASE4 = {
         }
       ],
       "sourceLabel": "Morning assembly presentation · 19 October 2026",
-      "image": "assembly-image2",
-      "alt": "Akshaya Srikant, recognised for BioSolve at the Global Sustainability Awards",
+      "image": "biosolve-gsa-announcement",
+      "alt": "School announcement celebrating Akshaya Srikant’s Global Sustainability Award 2026 for BioSolve",
       "photos": [
+        "assembly-image2",
         "illustration-biosolve"
       ],
       "photoCaptions": [
+        "Akshaya Srikant · BioSolve, Global Sustainability Awards 2026",
         "AI-generated concept illustration of sustainable wound-care materials"
       ],
-      "imageCredit": "Akshaya Srikant · BioSolve sustainability award slide",
-      "imagePosition": "50% 20%"
+      "imageCredit": "School announcement · Global Sustainability Awards 2026",
+      "imageFit": "contain"
     },
     "bloom-bricks": {
       "title": "Bloom Bricks",
@@ -1116,6 +1118,10 @@ window.PHASE4 = {
           "text": "His portfolio presents software and hardware projects including SSH Desk, Bucky, configTimeMachine and Elliot.",
           "link": "https://rylenanil.com/",
           "linkLabel": "Visit rylenanil.com"
+        },
+        {
+          "title": "Creator of the Phase4 website",
+          "text": "Rylen Anil built this Phase4 website to showcase the school’s student work, research and achievements."
         }
       ],
       "sourceLabel": "Hindustan Times, Onmanorama, Khaleej Times, India Today, the DOJ disclosure programme and rylenanil.com · checked 11 November 2026",

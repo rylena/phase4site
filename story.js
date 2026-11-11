@@ -13,7 +13,7 @@ if (!s) {
       <h1>${s.title}</h1><p>${s.subtitle}</p>${s.author ? `<p class="research-author">${s.author}</p>` : ''}
       ${s.links ? `<div class="story-links">${s.links.map(link => `<a class="text-link" href="${link.url}"${external(link.url)}>${link.label} ↗</a>`).join('')}</div>` : ''}
     </div>
-    ${s.image ? `<figure class="story-cover${['rylen','lakshita','doj-recognition','biosolve','diamond-artist'].includes(id) ? ' portrait' : ''}">
+    ${s.image ? `<figure class="story-cover${['rylen','lakshita','doj-recognition','diamond-artist'].includes(id) ? ' portrait' : ''}">
       <img src="assets/photos/${s.image}.webp" alt="${s.alt}">
       ${s.imageCredit ? `<figcaption>${s.imageCredit}</figcaption>` : ''}
     </figure>` : ''}

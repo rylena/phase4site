@@ -43,3 +43,6 @@ The user requests categories with fewer than four posts folded into broader cate
 
 ## Award image correction
 The user corrected a mismatched portrait. Assembly slide 1 places image2 with Akshaya Srikant’s BioSolve Global Sustainability Award; slide 5 places image6 with Margaret Isolde’s Market Voice Award. BioSolve now uses Akshaya’s portrait and Market Voice uses its source-matched stage photo. Preserve these subject-to-image mappings.
+
+## GSA announcement and site creator credit
+Use the user-supplied Global Sustainability Awards announcement on Akshaya Srikant’s BioSolve post, preserving the full image without cropping. Keep the separately confirmed Margaret stage photo on Market Voice. The bottom of Rylen Anil’s profile must state that he built the Phase4 website. The user explicitly requests GitHub Pages republication.
