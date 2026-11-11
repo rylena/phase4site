@@ -502,5 +502,231 @@
     "origin": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/6/5/rylen.jpg",
     "credit": "Special Arrangement / Onmanorama",
     "context": "https://www.onmanorama.com/news/kerala/2026/06/05/dubai-based-kerala-teen-who-flagged-neet-jee-flaws-inspired-by-matrix.html"
+  },
+  {
+    "asset": "assets/photos/science-image23.webp",
+    "origin": "Secondary_Science_Innovators_Phase4- PPT.pptx",
+    "original_media": "science-image23.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/science-image24.webp",
+    "origin": "Secondary_Science_Innovators_Phase4- PPT.pptx",
+    "original_media": "science-image24.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/science-image25.webp",
+    "origin": "Secondary_Science_Innovators_Phase4- PPT.pptx",
+    "original_media": "science-image25.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/science-image71.webp",
+    "origin": "Secondary_Science_Innovators_Phase4- PPT.pptx",
+    "original_media": "science-image71.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/science-image72.webp",
+    "origin": "Secondary_Science_Innovators_Phase4- PPT.pptx",
+    "original_media": "science-image72.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/science-image80.webp",
+    "origin": "Secondary_Science_Innovators_Phase4- PPT.pptx",
+    "original_media": "science-image80.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/science-image81.webp",
+    "origin": "Secondary_Science_Innovators_Phase4- PPT.pptx",
+    "original_media": "science-image81.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/science-image82.webp",
+    "origin": "Secondary_Science_Innovators_Phase4- PPT.pptx",
+    "original_media": "science-image82.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/panorama-image1.webp",
+    "origin": "LEARNING CONFERENCE.docx",
+    "original_media": "panorama-image1.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/panorama-image2.webp",
+    "origin": "LEARNING CONFERENCE.docx",
+    "original_media": "panorama-image2.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/panorama-image3.webp",
+    "origin": "LEARNING CONFERENCE.docx",
+    "original_media": "panorama-image3.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/assembly-image2.webp",
+    "origin": "MORNING ASSEMBLY PPT 19 October, 2026.pptx",
+    "original_media": "assembly-image2.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/assembly-image4.webp",
+    "origin": "MORNING ASSEMBLY PPT 19 October, 2026.pptx",
+    "original_media": "assembly-image4.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/assembly-image5.webp",
+    "origin": "MORNING ASSEMBLY PPT 19 October, 2026.pptx",
+    "original_media": "assembly-image5.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/assembly-image6.webp",
+    "origin": "MORNING ASSEMBLY PPT 19 October, 2026.pptx",
+    "original_media": "assembly-image6.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/assembly-image7.webp",
+    "origin": "MORNING ASSEMBLY PPT 19 October, 2026.pptx",
+    "original_media": "assembly-image7.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/assembly-image8.webp",
+    "origin": "MORNING ASSEMBLY PPT 19 October, 2026.pptx",
+    "original_media": "assembly-image8.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/assembly-image9.webp",
+    "origin": "MORNING ASSEMBLY PPT 19 October, 2026.pptx",
+    "original_media": "assembly-image9.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/assembly-image10.webp",
+    "origin": "MORNING ASSEMBLY PPT 19 October, 2026.pptx",
+    "original_media": "assembly-image10.png",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/lakshita-image5.webp",
+    "origin": "E Portfolio - Lakshita Jaisankar 9A - Copy.pptx",
+    "original_media": "lakshita-image5.jpeg",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/lakshita-image20.webp",
+    "origin": "E Portfolio - Lakshita Jaisankar 9A - Copy.pptx",
+    "original_media": "lakshita-image20.jpeg",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/lakshita-image22.webp",
+    "origin": "E Portfolio - Lakshita Jaisankar 9A - Copy.pptx",
+    "original_media": "lakshita-image22.jpeg",
+    "transform": "EXIF orientation, maximum 1400px WebP and 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/assembly-image3.webp",
+    "origin": "MORNING ASSEMBLY PPT 19 October, 2026.pptx",
+    "original_media": "image3.png",
+    "transform": "Resized to maximum 1400px WebP with 640px thumbnail"
+  },
+  {
+    "asset": "assets/photos/illustration-breathing-buildings.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape editorial cover illustration for a school research post titled Breathing Buildings. Create a polished tactile 3D editorial illustration of a contemporary building section with translucent emerald-green algae bioreactor panels integrated into its facade, with a subtle small culture vessel and sunlight. Scientific exploration and sustainable architecture, clearly a conceptual illustration rather than a photograph of a real building or an actual student prototype. Warm ivory background, deep forest green, pale sage, muted terracotta accents to fit a refined school annual website. Landscape 3:2 composition, central subject with generous framing so it remains complete when cropped as a cover. Soft daylight and crafted matte materials; sophisticated detailed render, no cartoon faces. No people, no lettering, no logos, no charts, no numbers, no watermark. Do not depict measured results or awards.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "breathing-buildings"
+  },
+  {
+    "asset": "assets/photos/illustration-fungal-composting.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: an elegant scientific still life showing pale fibrous sugarcane bagasse becoming rich brown compost, with delicate white fungal mycelium threads connecting the two and a small new green seedling. A shallow transparent cultivation tray and an out-of-focus laboratory culture dish. Show the idea of fungal decomposition, not measured experimental results or microscopic accuracy.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "fungal-composting"
+  },
+  {
+    "asset": "assets/photos/illustration-vitamin-d-receptor.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: an elegant conceptual molecular-biology composition: a folded forest-green protein ribbon surrounding a small warm amber ligand, beside a short cream-and-sage double helix. Refined scientific editorial illustration about receptor biology and genetic variation. The geometry is symbolic, not a scientifically exact receptor structure or a medical diagnosis. No human body or cancer-cell imagery.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "vitamin-d-receptor"
+  },
+  {
+    "asset": "assets/photos/illustration-household-cost-of-illness.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: a quiet respectful household health-economics still life with a stethoscope, an open blank household budget notebook, a small stack of neutral unmarked coins, and a tiny simple model house. Warm caring daylight, restrained documentary-inspired editorial composition, suggesting medical expenses and family wellbeing. No readable writing, no currency symbols, no medication brands, no distressed people, no poverty stereotypes.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "household-cost-of-illness"
+  },
+  {
+    "asset": "assets/photos/illustration-when-the-mind-wears-chains.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: a contemplative abstract ceramic human head sculpture in sage with a soft forest-green ribbon gently unravelling into open airy loops around it, and a nearby blank open journal. A thoughtful visual metaphor for self-reflection, agency and psychological research. Calm, respectful and hopeful. No trapped person, chains, prison imagery, distress, broken brain or clinical claims.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "when-the-mind-wears-chains"
+  },
+  {
+    "asset": "assets/photos/illustration-biosolve.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: an elegant speculative sustainable wound-care materials still life: a clean folded unbranded gauze pad, a translucent biopolymer film in a glass dish, a green leaf and a small laboratory vial. Biotechnology and environmentally conscious material research. No wounds, skin, blood, medical claims or product branding. This is a conceptual editorial image, not a rendering of the student's actual prototype.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "biosolve"
+  },
+  {
+    "asset": "assets/photos/illustration-gbs-green-innovation.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: an imaginative sustainable-design studio still life, a small miniature architectural pavilion assembled from natural wood with leaf-green planted surfaces, a single solar panel component and a young sprout. It is a general symbol of green innovation, not any particular competition project or school campus. No trophy, contest branding or invented award certificate.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "gbs-green-innovation"
+  },
+  {
+    "asset": "assets/photos/illustration-first-aid-pod.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: a speculative compact first-aid supply pod design maquette, softly rounded forest-green and ivory case opened to show neatly arranged generic gauze, rolled bandage and a small unbranded medical kit. On an architectural model table with subtle blank design sheets. Clear student-design concept illustration, not the actual submitted design or a deployed service. No red-cross emblem, brand, words or claims.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "first-aid-pod"
+  },
+  {
+    "asset": "assets/photos/illustration-arcus-iv.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: an architectural and engineering design competition concept still life: a striking small sculptural bridge maquette constructed from pale wood arches, accompanied by a drafting pencil and blank off-white design sheets. Warm, optimistic, precise crafted model. A symbolic image about design achievement, not a reconstruction of any actual Arcus IV competition entry. No awards or winning labels.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "arcus-iv"
+  },
+  {
+    "asset": "assets/photos/illustration-octacore.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: a materially different engineering design concept still life: an intricate interlocking geometric pavilion maquette assembled from terracotta and sage panels, a small ruler without visible markings, and a blank sketchbook. Architectural design iteration and collaborative innovation. Clearly a symbolic editorial image, not a reconstruction of the actual OctaCore entry. No awards, certificates or rank labels.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "octacore"
+  },
+  {
+    "asset": "assets/photos/illustration-sp-jain-marketing.webp",
+    "origin": "AI-generated conceptual illustration",
+    "tool": "built-in image_gen",
+    "generation_prompt": "Use case: stylized-concept. Asset type: landscape 3:2 editorial cover illustration for a refined school annual website. Create a polished tactile 3D illustration, clearly conceptual rather than a photograph documenting real people, a real experiment or an actual student device. Warm ivory, deep forest green, sage, subtle terracotta; soft natural studio light and crafted matte materials. One focused composition with generous framing and a detailed central subject, readable at thumbnail size. No text, labels, numbers, logos, seals, medals, watermark or people. Subject: an editorial marketing strategy still life: neat unlabelled product packaging prototypes, a wooden megaphone, several blank audience-profile cards and simple freestanding wooden chart bars with no axes or numbers, arranged on a warm ivory desk. Confident business-plan thinking. Symbolic illustration rather than a real student presentation or contest result. No business logos, fabricated data or readable text.",
+    "transform": "Maximum 1400px WebP and 640px thumbnail; generation provenance embedded in XMP",
+    "purpose": "sp-jain-marketing"
   }
 ]
