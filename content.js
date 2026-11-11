@@ -175,12 +175,16 @@ window.PHASE4 = {
         }
       ],
       "sourceLabel": "Morning assembly presentation · 19 October 2026",
-      "image": "illustration-biosolve",
-      "alt": "AI-generated illustration: Conceptual sustainable wound-care materials with gauze, biopolymer film and a leaf",
-      "photos": [],
-      "photoCaptions": [],
-      "imageGenerated": true,
-      "imageCredit": "AI-generated concept illustration"
+      "image": "assembly-image2",
+      "alt": "Akshaya Srikant, recognised for BioSolve at the Global Sustainability Awards",
+      "photos": [
+        "illustration-biosolve"
+      ],
+      "photoCaptions": [
+        "AI-generated concept illustration of sustainable wound-care materials"
+      ],
+      "imageCredit": "Akshaya Srikant · BioSolve sustainability award slide",
+      "imagePosition": "50% 20%"
     },
     "bloom-bricks": {
       "title": "Bloom Bricks",
@@ -257,10 +261,12 @@ window.PHASE4 = {
         }
       ],
       "sourceLabel": "Morning assembly presentation · 19 October 2026",
-      "image": "assembly-image2",
-      "alt": "Market Voice Award",
+      "image": "assembly-image6",
+      "alt": "Margaret Isolde receiving recognition on stage, from the Market Voice Award assembly slide",
       "photos": [],
-      "photoCaptions": []
+      "photoCaptions": [],
+      "imageCredit": "Market Voice Award recognition photo · school assembly presentation, slide 5",
+      "imageFit": "contain"
     },
     "acca-quiz": {
       "title": "ACCA Quiz Fest 2026",
@@ -739,8 +745,8 @@ window.PHASE4 = {
           "text": "Mind maps, presentations, models, diagrams and question-and-answer sessions gave students several ways to show understanding. Baseline and recap forms, rubrics, peer reflection and exit slips helped teachers examine reasoning, communication, evidence use and teamwork."
         },
         {
-          "title": "Progress recorded in the pilot",
-          "text": "The updated figures show English rising from 75% to 91%, a gain of 16 percentage points, and mathematics from 85% to 96%, a gain of 11 percentage points. These figures describe the Grade 9F pilot cohort; they should not be read as school-wide scores or a controlled causal study."
+          "title": "Reflecting on the learning",
+          "text": "Student presentations, reflection and teacher feedback help review how learners connect ideas, explain their reasoning and work together. The pilot uses these classroom experiences to guide the next cycle of learning."
         },
         {
           "title": "The next cycle",

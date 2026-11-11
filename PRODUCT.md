@@ -26,8 +26,8 @@ Name: Phase4; institution: JSS Private School, Dubai; school motto: Seek, Learn,
 ## Product Principles
 Make the student's actual work the visual focus. Support headline achievements with evidence from the supplied reports. Make breadth easy to discover, then offer readable detail. Keep the technical deployment simple.
 
-## Score correction
-On 28 October 2026, the user supplied corrected Grade 9F pilot scores: English 75% to 91% (+16 percentage points), mathematics 85% to 96% (+11 percentage points). These supersede the original source figures on the homepage and PhenoBL story.
+## PhenoBL display correction
+The user’s latest screenshot requests removal of the PhenoBL before/after scores and percentage-point gains. Do not publish those numerical progress figures. Keep the learning story and qualitative reflection. This supersedes the earlier score-display instructions.
 
 ## November 2026 expansion
 The OneDrive archive dated 11 November 2026 contains 22 source documents: 12 byte-identical to the original collection and 10 additions. Added coverage: Secondary Science Innovators; five student papers; Panorama ’26 learning conference; 19 October assembly awards in sustainability, art, enterprise, tennis and swimming; Lakshita’s portfolio; the Joel, Harish and Omkar portfolio directory. Rylen’s additional story links independent reports from Hindustan Times, Onmanorama, Khaleej Times and India Today, plus the DOJ acknowledgment page and his portfolio. LinkedIn links and competition rankings supported only by social posts have been removed at the user’s request. No personal particulars, health measurements, raw academic records or source documents from the supplied student portfolio are published. Keep the existing GitHub Pages workflow and do not deploy to another host.
@@ -40,3 +40,6 @@ The user requests a cover image on every post, with image generation where neede
 
 ## Consolidated categories and student portfolios
 The user requests categories with fewer than four posts folded into broader categories, removal of the separate “The people / The work / The possibility” portfolio section, and all five profiles within Student voices. Use six categories: Research, Innovation, Enterprise, Learning & careers, School life and Student voices. Add individual Joel Jose and Omkar Mhetar posts with their live portfolios embedded and a direct new-tab link; add a Harish Murugappan profile with a LinkedIn link and a write-up supported by school results coverage. LinkedIn blocks unauthenticated access, so do not invent profile details. Maintain images on all43posts. User explicitly authorises GitHub Pages republication.
+
+## Award image correction
+The user corrected a mismatched portrait. Assembly slide 1 places image2 with Akshaya Srikant’s BioSolve Global Sustainability Award; slide 5 places image6 with Margaret Isolde’s Market Voice Award. BioSolve now uses Akshaya’s portrait and Market Voice uses its source-matched stage photo. Preserve these subject-to-image mappings.
